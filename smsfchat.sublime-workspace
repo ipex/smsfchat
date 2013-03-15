@@ -1,0 +1,178 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Franklin/smsfchat/face/src/face.php",
+		"/C/Users/Franklin/smsfchat/face/web/inicio.php",
+		"/C/Users/Franklin/smsfchat/face/web/finalizado.php",
+		"/C/Users/Franklin/smsfchat/face/web/index.php",
+		"/C/Users/Franklin/smsfchat/face/web/verificacion.php",
+		"/C/Users/Franklin/smsfchat/face/src/fun.php",
+		"/C/Users/Franklin/smsfchat/face/index.php",
+		"/C/Users/Franklin/smsfchat/face/error_log",
+		"/C/Users/Franklin/smsfchat/face/src/facebook.php",
+		"/C/Users/Franklin/smsfchat/face/src/facem.php",
+		"/C/Users/Franklin/smsfchat/face/prueba/verificacion.php",
+		"/C/Users/Franklin/smsfchat/face/prueba/finalizado.php",
+		"/C/Users/Franklin/smsfchat/face/movil/procesa.php",
+		"/C/Users/Franklin/smsfchat/AppInfo.php",
+		"/C/Users/Franklin/smsfchat/Readme.md",
+		"/C/Users/Franklin/smsfchat/index.php",
+		"/C/Users/Franklin/Desktop/NFS Underground 2/speed2.exe",
+		"/C/Users/Franklin/Desktop/NFS Underground 2/Configurar nfsu2.rar",
+		"/C/Users/Franklin/Desktop/NFS Underground 2/nfsu2000.tga"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Franklin\\smsfchat\\face"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"movilchat",
+			"sendCodigoVerificacion",
+			"427901857282453",
+			"apps.facebook.com",
+			"kollahost.com/face/",
+			"envioCodigoVerificacion",
+			"688",
+			"movilchatsms",
+			"sendCodigoVerificacion",
+			"229592483756265",
+			"427901857282453",
+			"kollahost.com/face",
+			"74.81.90.116",
+			"63.247.95.46",
+			"427901857282453",
+			"rand",
+			"63.247.95.42",
+			"envioSMS",
+			"file_get_contents",
+			"74.81.90.116",
+			"621f0bef66f988237742391da6791bdc",
+			"240242299380891",
+			"welcome"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"63.247.95.46",
+			"6fe119f0702a1a96de74bca505a74ff6",
+			"427901857282453"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}
